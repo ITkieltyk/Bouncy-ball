@@ -1,0 +1,13 @@
+.field {
+  border: double 2px green;
+  margin: 15px auto;
+  position: relative;
+  box-shadow: 0 0 5px 10px rgb(3, 80, 3);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  font-size: 2rem;
+}
