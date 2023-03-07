@@ -11,3 +11,8 @@
 .text {
   font-size: 2rem;
 }
+.ball {
+  border-radius: 50%;
+  border: solid rgb(131, 124, 124);
+  box-shadow: 3px 3px 3px 0px rgb(133, 123, 123);
+}
